@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": "7d884557-d590-4414-ab70-0cfb7c9e7254",
+      "title": "Task 01",
+      "description": "Descrição da Task 01",
+      "completed_at": null,
+      "created_at": "2026-04-20T16:42:24.844Z",
+      "updated_at": "2026-04-20T16:42:24.844Z"
+    },
+    {
+      "id": "084349e0-b2c3-4c67-b6f6-36b0406b43d1",
+      "title": "Task 02",
+      "description": "Descrição da Task 02",
+      "completed_at": null,
+      "created_at": "2026-04-20T16:42:24.865Z",
+      "updated_at": "2026-04-20T16:42:24.865Z"
+    },
+    {
+      "id": "355742f4-44da-40b6-b0cf-650cbc14bd12",
+      "title": "Task 03",
+      "description": "Descrição da Task 03",
+      "completed_at": null,
+      "created_at": "2026-04-20T16:42:24.869Z",
+      "updated_at": "2026-04-20T16:42:24.869Z"
+    },
+    {
+      "id": "1f1a6344-4dfb-4076-beab-143b4344a699",
+      "title": "Task 04",
+      "description": "Descrição da Task 04",
+      "completed_at": null,
+      "created_at": "2026-04-20T16:42:24.873Z",
+      "updated_at": "2026-04-20T16:42:24.873Z"
+    },
+    {
+      "id": "2a3a7740-4af0-4dc2-b184-cf7d1fc2dd01",
+      "title": "Task 05",
+      "description": "Descrição da Task 05",
+      "completed_at": null,
+      "created_at": "2026-04-20T16:42:24.877Z",
+      "updated_at": "2026-04-20T16:42:24.877Z"
+    }
+  ]
+}
