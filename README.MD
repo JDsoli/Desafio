@@ -21,4 +21,4 @@ Uma API robusta para gestão de tarefas, desenvolvida durante o desafio de Node.
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/teu-usuario/nodejs-task-api.git](https://github.com/JDsoli/nodejs-task-api.git)
+   git clone [https://github.com/JDsoli/nodejs-task-api.git](https://github.com/JDsoli/nodejs-task-api.git)
